@@ -3,7 +3,7 @@ Parsimonious Bayesian Deep Networks
 
 Code for 
 @inproceedings{Zhou_PBDN_2018,
-	Author = {Mingyuan Zhou},
+	Author = {Mingyuan Zhou},	
 	Booktitle = {NIPS},
 	Title = {Parsimonious Bayesian Deep Networks},
 	Year = {2014}
