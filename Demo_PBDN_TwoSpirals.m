@@ -530,7 +530,7 @@ figure
 i=10
 loaddata
 
-filename = 'DSN_two_spirals_subtype.gif';
+filename = 'PBDN_two_spirals.gif';
 for depth=[11,1:10]
     h=figure(depth)
     %     if depth==1
