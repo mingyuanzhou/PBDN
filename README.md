@@ -10,7 +10,7 @@ Code for
                 Year = {2014}
         }
 
-Python (Tensorflow) code is for MAP inference via SGD
+Python (TensorFlow) code is for MAP inference via SGD
 
 Matlab code is for Bayesian inference via Gibbs sampling
 
