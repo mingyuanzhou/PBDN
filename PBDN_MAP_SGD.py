@@ -1,6 +1,6 @@
 #run this demo code to reproduce the results of PBDN-AIC-SGD and PBDN-AIC_{\epsilon=0.01}-SGD in Tables 2, 3, and 5.
 
-#uncomment Line 576 (for i in np.array([16,17,18,19]):), comment Line 575 (for i in np.array([1,2,3,4,5,6,8,9]):), and then run the modified demo code to reproduce the results of PBDN in Table 1; run plot_subtype.m in Matlab to reproduce the subtype images in Table 1.
+#uncomment Line 571 (for i in np.array([16,17,18,19]):), comment Line 570 (for i in np.array([1,2,3,4,5,6,8,9]):), and then run the modified demo code to reproduce the results of PBDN in Table 1; run plot_subtype.m in Matlab to reproduce the subtype images in Table 1.
 
 import numpy as np, scipy.sparse as sp
 import scipy.io as sio
